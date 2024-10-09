@@ -1,0 +1,24 @@
+body{
+        background-color: whitesmoke;
+        color: black;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.inp{
+    height: 70x;
+    width: 370px;
+}
+.box{
+    background-color: darkgrey;
+    height:400px;
+    width: 350px;
+    border-radius: 50px;
+    opacity: 100%;
+}

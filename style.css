@@ -1,0 +1,43 @@
+.container{
+    background-color: white;
+    height: 450px;
+    width: 400px;
+    border-radius: 40px;
+    margin-top: 60px;
+    opacity: 80%;
+    cursor: pointer;
+}
+.inp1{
+    width: 250px;
+    background-color: white;
+    height: 40px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.inp2{ 
+    height: 40px;
+    width: 250px;
+    border-radius: 40px;
+    background-color: white;
+    cursor: pointer;
+}
+.inp3{
+    height: 40px;
+    width: 250px;
+    border-radius: 40px;
+    background-color: darkblue;
+    cursor: pointer;
+}
+.btn{
+    height: 40px;
+    width: 250px;
+    border-radius: 40px;
+    background-color: forestgreen;
+    cursor: pointer;
+}
+.forget{
+    cursor: pointer;
+}
+.h1{
+    color: lightcoral;
+}
